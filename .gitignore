@@ -1,0 +1,13 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de Jupyter/Colab
+.ipynb_checkpoints/
+
+# Archivos de datos pesados
+*.xlsx
+*.log
+
+# Variables de entorno
+.env
